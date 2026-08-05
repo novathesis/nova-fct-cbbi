@@ -1,8 +1,8 @@
-# Abstract: novathesis-nova-fct-cbbi-v8.0.0
+# Abstract: novathesis-nova-fct-cbbi-v8.0.1
 
 This is a customized LaTeX template for theses and reports at the **Mestrado em Biologia Computacional e Bioinformática (MCBBi)**, a joint MSc programme run by **Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa (NOVA FCT)** together with ITQB NOVA, NOVA Medical School, IHMT NOVA and NOVA IMS, following the most recent [NOVA FCT guidelines for theses and dissertations (in Portuguese)](https://www.fct.unl.pt/estudante/informacao-academica/teses-e-dissertacoes). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide MCBBi students with a streamlined experience, meeting NOVA FCT's academic formatting standards (including the programme's own MSc CBBi cover branding) without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.1)**, trimmed down and optimized to provide MCBBi students with a streamlined experience, meeting NOVA FCT's academic formatting standards (including the programme's own MSc CBBi cover branding) without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
